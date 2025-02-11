@@ -1,5 +1,6 @@
 title: Josmy Mathew
-logo: Linkedinprofilephoto.jpeg
+#logo: Linkedinprofilephoto.jpeg
+src="Linkedinprofilephoto.jpeg"
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
